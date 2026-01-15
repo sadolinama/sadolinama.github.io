@@ -1,20 +1,22 @@
-## ⭐ Featured Project
+# ⭐ Featured Project: Healthcare Patient Readmission Analytics (SAS & Tableau)
 
-### Healthcare Patient Readmission Analytics (SAS & Tableau)
 End-to-end healthcare analytics project analyzing 30-day hospital readmissions using SAS and Tableau.
 Includes KPI development, logistic regression modeling, and an executive dashboard.
 
-🔗 [View Project](projects/healthcare-readmission-analytics)
+🌐 **Live Portfolio:**  
+https://sadolinama.github.io/
 
+📂 **Project Repository:**  
+https://github.com/sadolinama/healthcare-readmission-analytics
 
-# Healthcare Patient Readmission Analytics (SAS & Tableau)
+---
 
 ## 📌 Project Overview
 Hospital readmissions within 30 days are a major cost driver and quality metric in healthcare.
 This project analyzes patient-level hospital data to identify key drivers of readmission and
 builds a risk-scoring model to support proactive intervention strategies.
 
-## 🎯 Business Objective
+## 🎯 Business Objectives
 - Reduce 30-day hospital readmissions
 - Identify high-risk patient segments
 - Support data-driven discharge planning
@@ -22,7 +24,7 @@ builds a risk-scoring model to support proactive intervention strategies.
 ## 🛠 Tools & Technologies
 - SAS (Data cleaning, KPI analysis, logistic regression)
 - Tableau (Executive dashboard)
-- SQL-style logic (PROC SQL)
+- PROC SQL (Data aggregation)
 - GitHub Pages (Portfolio hosting)
 
 ## 📊 Key KPIs
@@ -47,27 +49,6 @@ The Tableau dashboard provides:
 - Longer hospital stays strongly correlate with readmission
 - Emergency admissions show higher readmission probability
 
-## 📂 Repository Structure
-See folders for SAS scripts, Tableau workbook, dataset, and final report.
-
-## 🔗 Author
-
-<section id="featured-project">
-  <h2>Featured Project</h2>
-  <h3>Healthcare Patient Readmission Analytics</h3>
-  <p>
-    End-to-end healthcare analytics project using SAS and Tableau to identify
-    readmission risk drivers and support hospital intervention strategies.
-  </p>
-  <ul>
-    <li>SAS data preparation & logistic regression</li>
-    <li>Executive Tableau dashboard</li>
-    <li>Healthcare KPI analysis</li>
-  </ul>
-  <a href="projects/healthcare-readmission-analytics/" target="_blank">
-    View Project on GitHub
-  </a>
-</section>
-
+## 👤 Author
 **Samuel Adolinama**  
-Data Analyst | Applied Statistics  
+Data Analyst | Applied Statistics
