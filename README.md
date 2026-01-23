@@ -7,7 +7,7 @@ Includes KPI development, logistic regression modeling, and an executive dashboa
 https://sadolinama.github.io/
 
 📂 **Project Repository:**  
-https://github.com/sadolinama/healthcare-readmission-analytics
+https://github.com/sadolinama/sadolinama.github.io?tab=readme-ov-file
 
 ---
 
